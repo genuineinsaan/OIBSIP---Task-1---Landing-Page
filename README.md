@@ -5,7 +5,7 @@ This repository contains the internship tasks completed for the **Oasis Infobyte
 ## 🌐 Task 1 – Landing Page
 - Fully responsive landing page built with HTML, CSS, and JavaScript
 - Includes: Features, Devices Supported, Global Server Map, Testimonials & Contact Form
-- Live Demo: [Click Here](https://genuineinsaan.github.io/OIBSIP-Landing-Page-Task/)
+- Live Demo: [Click Here](https://genuineinsaan.github.io/OIBSIP---Task-1---Landing-Page/)
 
 ---
 
